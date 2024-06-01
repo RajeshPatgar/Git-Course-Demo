@@ -1,2 +1,4 @@
 get user details.....
 processing user data
+
+adding new feature for new branch ...creating avatar for users
